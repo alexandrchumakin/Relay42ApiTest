@@ -16,6 +16,7 @@ https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&t
 ## To run tests
 - Clone project
 - Go to folder directory in terminal
+- Change **user** and **password** with correct credentials in configurations.properties
 - Execute command:
 ```sh
 $ mvn test
